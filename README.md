@@ -1,2 +1,2 @@
-# Data-Science-Captsone---Car-Accidents
-Assignments for the Applied Data Scicne Capstone - Car Accidents
+# Data-Science-Captsone-Car-Accidents
+Assignments for the Applied Data Sciecne Capstone - Car Accidents in Seattle
